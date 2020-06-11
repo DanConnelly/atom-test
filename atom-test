@@ -1,0 +1,4 @@
+def testFunc(x,y):
+    twiceX = x*2
+    twiceY = y*2
+    return twiceX,twiceY
